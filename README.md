@@ -13,7 +13,7 @@ str_check - 문자열인지 아닌지 판별해주는 함수
 # 2
 no_continuous - 받은 list의 연속된 값을 제거해주는 함수
 1) list slice를 사용.
-    ex1) a[n:m] == n ~ m-1, a[n:] == n ~, a[:n] == ~ n, a[:] == all
-    ex2) a[n:m:p] == n ~ m-1 까지 p 만큼 증가
-    ex3) a[-1] == list의 맨 뒤, a[-1:]  == list의 맨 뒤부터(추가), a[:-n] == list 맨 뒤부터 n개 제외
+    ex1) a[1:3] == 1 ~ 2, a[1:] == 1 ~, a[:3] == ~ 2, a[:] == all
+    ex2) a[1:10:2] == 1 ~ 9 까지 2 만큼 증가
+    ex3) a[-1] == list의 맨 뒤, a[-1:]  == list의 맨 뒤부터(추가), a[:-2] == list 맨 뒤부터 2개 제외
 2) ex_list.append("ex")를 사용. ex_list라는 list에 ex라는 원소를 추가하는 함수
