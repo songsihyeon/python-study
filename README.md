@@ -7,6 +7,7 @@ Python Study Using Programmers.
 ## 1 str_check - 문자열인지 아닌지 판별해주는 함수
 
 > isdigit() 이라는 함수를 사용. 숫자일 때 True 반환, 문자열일 때 False 반환
+
 > isalpha() 라는 isdigit()과는 반대인 함수도 존재함..!
 
 
@@ -18,4 +19,5 @@ Python Study Using Programmers.
     ex2) a[1:10:2] == 1 ~ 9 까지 2 만큼 증가
     ex3) a[-1] == list의 맨 뒤, a[-1:]  == list의 맨 뒤부터(추가), a[:-2] == list 맨 뒤부터 2개 제외
 ```
+
 > ex_list.append("ex")를 사용. ex_list라는 list에 ex라는 원소를 추가하는 함수
