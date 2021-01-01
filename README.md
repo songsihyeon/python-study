@@ -1,7 +1,7 @@
 ## Python study
 
 >프로그래머스를 이용해 파이썬 공부를 하고있습니다.
->Python Study Using Programmers.
+Python Study Using Programmers.
 
 
 ## 1) str_check
