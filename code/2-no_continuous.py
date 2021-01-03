@@ -8,4 +8,4 @@ def solution(arr):
     return a
 
 # 테스트 케이스
-print(solution("112222333"))
+print(solution("1122233"))
