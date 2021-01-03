@@ -5,4 +5,4 @@ def solution(s) :
 
 # 테스트 케이스
 print(solution("a234"))
-print(solution("1234"))
+print(solution("1254"))
